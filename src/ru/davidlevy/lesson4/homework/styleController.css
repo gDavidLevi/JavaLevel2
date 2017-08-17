@@ -1,0 +1,7 @@
+.text-area .content {
+    -fx-background-color: linear-gradient(#bbbbee 0%, #dddddd 50%, #bbbbee 100%);
+}
+
+.text-area {
+    -fx-font-size: 13;
+}
